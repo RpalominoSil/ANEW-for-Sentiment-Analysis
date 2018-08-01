@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<labels xmlns="http://mulan.sourceforge.net/labels">
+<label name="unpleasant"></label>
+<label name="pleasant"></label>
+<label name="calm"></label>
+<label name="excited"></label>
+<label name="outOfControl"></label>
+<label name="inControl"></label>
+</labels>

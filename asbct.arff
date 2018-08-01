@@ -1,0 +1,2753 @@
+@RELATION 'ASBCT: -C 6'
+
+@ATTRIBUTE abandonar {0,1}
+@ATTRIBUTE abeja {0,1}
+@ATTRIBUTE abortar {0,1}
+@ATTRIBUTE abrasador {0,1}
+@ATTRIBUTE abrazar {0,1}
+@ATTRIBUTE abrumar {0,1}
+@ATTRIBUTE absurdo {0,1}
+@ATTRIBUTE abundancia {0,1}
+@ATTRIBUTE aburrir {0,1}
+@ATTRIBUTE accidentar {0,1}
+@ATTRIBUTE ?cido {0,1}
+@ATTRIBUTE acogedor {0,1}
+@ATTRIBUTE acontecimiento {0,1}
+@ATTRIBUTE acre {0,1}
+@ATTRIBUTE activar {0,1}
+@ATTRIBUTE acuerdo {0,1}
+@ATTRIBUTE acurrucar {0,1}
+@ATTRIBUTE adicto {0,1}
+@ATTRIBUTE adinerado {0,1}
+@ATTRIBUTE admirar {0,1}
+@ATTRIBUTE adorable {0,1}
+@ATTRIBUTE adulto {0,1}
+@ATTRIBUTE afectar {0,1}
+@ATTRIBUTE afianzar {0,1}
+@ATTRIBUTE afligir {0,1}
+@ATTRIBUTE afortunar {0,1}
+@ATTRIBUTE agilidad {0,1}
+@ATTRIBUTE agobiar {0,1}
+@ATTRIBUTE agon?a {0,1}
+@ATTRIBUTE agradecer {0,1}
+@ATTRIBUTE agresi?n {0,1}
+@ATTRIBUTE agresivo {0,1}
+@ATTRIBUTE aguar {0,1}
+@ATTRIBUTE aguanieve {0,1}
+@ATTRIBUTE aguja {0,1}
+@ATTRIBUTE ahogar {0,1}
+@ATTRIBUTE ahorrar {0,1}
+@ATTRIBUTE aire {0,1}
+@ATTRIBUTE alba {0,1}
+@ATTRIBUTE alcoh?lico {0,1}
+@ATTRIBUTE alegrar {0,1}
+@ATTRIBUTE alergia {0,1}
+@ATTRIBUTE alertar {0,1}
+@ATTRIBUTE almohada {0,1}
+@ATTRIBUTE amabilidad {0,1}
+@ATTRIBUTE amable {0,1}
+@ATTRIBUTE amar {0,1}
+@ATTRIBUTE amanecer {0,1}
+@ATTRIBUTE amarillar {0,1}
+@ATTRIBUTE ambici?n {0,1}
+@ATTRIBUTE ambulancia {0,1}
+@ATTRIBUTE amenazar {0,1}
+@ATTRIBUTE amigable {0,1}
+@ATTRIBUTE amigo {0,1}
+@ATTRIBUTE amor {0,1}
+@ATTRIBUTE ampollar {0,1}
+@ATTRIBUTE ?ngel {0,1}
+@ATTRIBUTE angustiar {0,1}
+@ATTRIBUTE anhelar {0,1}
+@ATTRIBUTE ?nimo {0,1}
+@ATTRIBUTE ansioso {0,1}
+@ATTRIBUTE aplastar {0,1}
+@ATTRIBUTE aplauso {0,1}
+@ATTRIBUTE aprender {0,1}
+@ATTRIBUTE aprobaci?n {0,1}
+@ATTRIBUTE apuro {0,1}
+@ATTRIBUTE ara?ar {0,1}
+@ATTRIBUTE ?rbol {0,1}
+@ATTRIBUTE arco-iris {0,1}
+@ATTRIBUTE armar {0,1}
+@ATTRIBUTE armario {0,1}
+@ATTRIBUTE arrepentido {0,1}
+@ATTRIBUTE arrogante {0,1}
+@ATTRIBUTE arte {0,1}
+@ATTRIBUTE as {0,1}
+@ATTRIBUTE ascensor {0,1}
+@ATTRIBUTE asediar {0,1}
+@ATTRIBUTE asesinar {0,1}
+@ATTRIBUTE asfixiar {0,1}
+@ATTRIBUTE asentar {0,1}
+@ATTRIBUTE asombrar {0,1}
+@ATTRIBUTE ?spero {0,1}
+@ATTRIBUTE asquear {0,1}
+@ATTRIBUTE asqueroso {0,1}
+@ATTRIBUTE astronauta {0,1}
+@ATTRIBUTE asustar {0,1}
+@ATTRIBUTE ata?d {0,1}
+@ATTRIBUTE aterrorizar {0,1}
+@ATTRIBUTE ?tico {0,1}
+@ATTRIBUTE atracador {0,1}
+@ATTRIBUTE atrever {0,1}
+@ATTRIBUTE atrocidad {0,1}
+@ATTRIBUTE aurora {0,1}
+@ATTRIBUTE autob?s {0,1}
+@ATTRIBUTE avalancha {0,1}
+@ATTRIBUTE avaricia {0,1}
+@ATTRIBUTE avenir {0,1}
+@ATTRIBUTE aventurar {0,1}
+@ATTRIBUTE avergonzar {0,1}
+@ATTRIBUTE avi?n {0,1}
+@ATTRIBUTE avispar {0,1}
+@ATTRIBUTE az?car {0,1}
+@ATTRIBUTE azul {0,1}
+@ATTRIBUTE bailar?n {0,1}
+@ATTRIBUTE balar {0,1}
+@ATTRIBUTE bancarrota {0,1}
+@ATTRIBUTE banco {0,1}
+@ATTRIBUTE bandera {0,1}
+@ATTRIBUTE ba?era {0,1}
+@ATTRIBUTE ba?ar {0,1}
+@ATTRIBUTE bar {0,1}
+@ATTRIBUTE barco {0,1}
+@ATTRIBUTE barril {0,1}
+@ATTRIBUTE bastardo {0,1}
+@ATTRIBUTE bastar {0,1}
+@ATTRIBUTE bast?n {0,1}
+@ATTRIBUTE basura {0,1}
+@ATTRIBUTE beb? {0,1}
+@ATTRIBUTE beber {0,1}
+@ATTRIBUTE belleza {0,1}
+@ATTRIBUTE bendecir {0,1}
+@ATTRIBUTE besar {0,1}
+@ATTRIBUTE bestia {0,1}
+@ATTRIBUTE blanco {0,1}
+@ATTRIBUTE blasfemia {0,1}
+@ATTRIBUTE boda {0,1}
+@ATTRIBUTE bodega {0,1}
+@ATTRIBUTE bofetada {0,1}
+@ATTRIBUTE bomba {0,1}
+@ATTRIBUTE bombilla {0,1}
+@ATTRIBUTE botella {0,1}
+@ATTRIBUTE boxeador {0,1}
+@ATTRIBUTE brazo {0,1}
+@ATTRIBUTE brillante {0,1}
+@ATTRIBUTE br?o {0,1}
+@ATTRIBUTE brisa {0,1}
+@ATTRIBUTE brutal {0,1}
+@ATTRIBUTE buceador {0,1}
+@ATTRIBUTE bueno {0,1}
+@ATTRIBUTE buhar {0,1}
+@ATTRIBUTE bulto {0,1}
+@ATTRIBUTE burlar {0,1}
+@ATTRIBUTE caballo {0,1}
+@ATTRIBUTE cable {0,1}
+@ATTRIBUTE cachorro {0,1}
+@ATTRIBUTE cad?ver {0,1}
+@ATTRIBUTE caer {0,1}
+@ATTRIBUTE calidad {0,1}
+@ATTRIBUTE callar {0,1}
+@ATTRIBUTE calle {0,1}
+@ATTRIBUTE callej?n {0,1}
+@ATTRIBUTE calmar {0,1}
+@ATTRIBUTE calor {0,1}
+@ATTRIBUTE cama {0,1}
+@ATTRIBUTE cami?n {0,1}
+@ATTRIBUTE campe?n {0,1}
+@ATTRIBUTE campar {0,1}
+@ATTRIBUTE c?ncer {0,1}
+@ATTRIBUTE canci?n {0,1}
+@ATTRIBUTE cansar {0,1}
+@ATTRIBUTE ca??n {0,1}
+@ATTRIBUTE caos {0,1}
+@ATTRIBUTE capaz {0,1}
+@ATTRIBUTE capricho {0,1}
+@ATTRIBUTE cara {0,1}
+@ATTRIBUTE caramelo {0,1}
+@ATTRIBUTE c?rcel {0,1}
+@ATTRIBUTE caricia {0,1}
+@ATTRIBUTE cari?oso {0,1}
+@ATTRIBUTE carretera {0,1}
+@ATTRIBUTE carro {0,1}
+@ATTRIBUTE carro?ar {0,1}
+@ATTRIBUTE carta {0,1}
+@ATTRIBUTE casar {0,1}
+@ATTRIBUTE cascar {0,1}
+@ATTRIBUTE casino {0,1}
+@ATTRIBUTE casa {0,1}
+@ATTRIBUTE castigar {0,1}
+@ATTRIBUTE celo {0,1}
+@ATTRIBUTE c?lula {0,1}
+@ATTRIBUTE cementerio {0,1}
+@ATTRIBUTE cenar {0,1}
+@ATTRIBUTE cerdo {0,1}
+@ATTRIBUTE c?sped {0,1}
+@ATTRIBUTE cesta {0,1}
+@ATTRIBUTE chaleco {0,1}
+@ATTRIBUTE champi??n {0,1}
+@ATTRIBUTE chantaje {0,1}
+@ATTRIBUTE chico {0,1}
+@ATTRIBUTE chiflar {0,1}
+@ATTRIBUTE chillido {0,1}
+@ATTRIBUTE chistar {0,1}
+@ATTRIBUTE chocolate {0,1}
+@ATTRIBUTE chocar {0,1}
+@ATTRIBUTE cicatriz {0,1}
+@ATTRIBUTE cicl?n {0,1}
+@ATTRIBUTE cegar {0,1}
+@ATTRIBUTE cielo {0,1}
+@ATTRIBUTE ciempi?s {0,1}
+@ATTRIBUTE cieno {0,1}
+@ATTRIBUTE circo {0,1}
+@ATTRIBUTE c?rculo {0,1}
+@ATTRIBUTE cirug?a {0,1}
+@ATTRIBUTE ciudad {0,1}
+@ATTRIBUTE cobarde {0,1}
+@ATTRIBUTE coche {0,1}
+@ATTRIBUTE cocinar {0,1}
+@ATTRIBUTE cocinero {0,1}
+@ATTRIBUTE codo {0,1}
+@ATTRIBUTE coitar {0,1}
+@ATTRIBUTE c?lera {0,1}
+@ATTRIBUTE color {0,1}
+@ATTRIBUTE columna {0,1}
+@ATTRIBUTE comediar {0,1}
+@ATTRIBUTE comer {0,1}
+@ATTRIBUTE comedir {0,1}
+@ATTRIBUTE comprometer {0,1}
+@ATTRIBUTE concentrar {0,1}
+@ATTRIBUTE conejo {0,1}
+@ATTRIBUTE confianza {0,1}
+@ATTRIBUTE confort {0,1}
+@ATTRIBUTE confuso {0,1}
+@ATTRIBUTE conocimiento {0,1}
+@ATTRIBUTE considerar {0,1}
+@ATTRIBUTE consignar {0,1}
+@ATTRIBUTE consolar {0,1}
+@ATTRIBUTE contaminar {0,1}
+@ATTRIBUTE contener {0,1}
+@ATTRIBUTE contexto {0,1}
+@ATTRIBUTE convencer {0,1}
+@ATTRIBUTE coqueto {0,1}
+@ATTRIBUTE coraz?n {0,1}
+@ATTRIBUTE corchar {0,1}
+@ATTRIBUTE cordero {0,1}
+@ATTRIBUTE coronar {0,1}
+@ATTRIBUTE corredor {0,1}
+@ATTRIBUTE correo {0,1}
+@ATTRIBUTE corrupto {0,1}
+@ATTRIBUTE cortar {0,1}
+@ATTRIBUTE cortes?a {0,1}
+@ATTRIBUTE cortina {0,1}
+@ATTRIBUTE costa {0,1}
+@ATTRIBUTE costumbre {0,1}
+@ATTRIBUTE cotillear {0,1}
+@ATTRIBUTE cr?neo {0,1}
+@ATTRIBUTE crepar {0,1}
+@ATTRIBUTE crep?sculo {0,1}
+@ATTRIBUTE criatura {0,1}
+@ATTRIBUTE crimen {0,1}
+@ATTRIBUTE criminal {0,1}
+@ATTRIBUTE crisis {0,1}
+@ATTRIBUTE crucificar {0,1}
+@ATTRIBUTE cruel {0,1}
+@ATTRIBUTE cuadrar {0,1}
+@ATTRIBUTE cucaracha {0,1}
+@ATTRIBUTE cuchillo {0,1}
+@ATTRIBUTE cuenco {0,1}
+@ATTRIBUTE cuerpo {0,1}
+@ATTRIBUTE culpar {0,1}
+@ATTRIBUTE culpable {0,1}
+@ATTRIBUTE cumplea?os {0,1}
+@ATTRIBUTE curar {0,1}
+@ATTRIBUTE curioso {0,1}
+@ATTRIBUTE daga {0,1}
+@ATTRIBUTE da?ar {0,1}
+@ATTRIBUTE d?bil {0,1}
+@ATTRIBUTE decepcionar {0,1}
+@ATTRIBUTE decorar {0,1}
+@ATTRIBUTE dedicar {0,1}
+@ATTRIBUTE dedo {0,1}
+@ATTRIBUTE defender {0,1}
+@ATTRIBUTE deformar {0,1}
+@ATTRIBUTE deleitar {0,1}
+@ATTRIBUTE delicado {0,1}
+@ATTRIBUTE dementar {0,1}
+@ATTRIBUTE demonio {0,1}
+@ATTRIBUTE dentista {0,1}
+@ATTRIBUTE deporte {0,1}
+@ATTRIBUTE depresi?n {0,1}
+@ATTRIBUTE deprimir {0,1}
+@ATTRIBUTE desagradar {0,1}
+@ATTRIBUTE desanimar {0,1}
+@ATTRIBUTE desastre {0,1}
+@ATTRIBUTE descansar {0,1}
+@ATTRIBUTE descomposici?n {0,1}
+@ATTRIBUTE desd?n {0,1}
+@ATTRIBUTE desde?oso {0,1}
+@ATTRIBUTE desenfadar {0,1}
+@ATTRIBUTE desear {0,1}
+@ATTRIBUTE desertor {0,1}
+@ATTRIBUTE desesperar {0,1}
+@ATTRIBUTE desleal {0,1}
+@ATTRIBUTE deslumbramiento {0,1}
+@ATTRIBUTE desnudar {0,1}
+@ATTRIBUTE desordenar {0,1}
+@ATTRIBUTE despedazar {0,1}
+@ATTRIBUTE desperdiciar {0,1}
+@ATTRIBUTE despreciar {0,1}
+@ATTRIBUTE despreocupado {0,1}
+@ATTRIBUTE destrucci?n {0,1}
+@ATTRIBUTE destruir {0,1}
+@ATTRIBUTE desventaja {0,1}
+@ATTRIBUTE desvestir {0,1}
+@ATTRIBUTE detallar {0,1}
+@ATTRIBUTE detestar {0,1}
+@ATTRIBUTE deuda {0,1}
+@ATTRIBUTE devoto {0,1}
+@ATTRIBUTE diablo {0,1}
+@ATTRIBUTE diamante {0,1}
+@ATTRIBUTE decir {0,1}
+@ATTRIBUTE dificultar {0,1}
+@ATTRIBUTE digno {0,1}
+@ATTRIBUTE dinero {0,1}
+@ATTRIBUTE dios {0,1}
+@ATTRIBUTE diplomar {0,1}
+@ATTRIBUTE disgustar {0,1}
+@ATTRIBUTE distante {0,1}
+@ATTRIBUTE disturbiar {0,1}
+@ATTRIBUTE diversi?n {0,1}
+@ATTRIBUTE divorciar {0,1}
+@ATTRIBUTE doctor {0,1}
+@ATTRIBUTE d?lar {0,1}
+@ATTRIBUTE dolencia {0,1}
+@ATTRIBUTE dolor {0,1}
+@ATTRIBUTE dormir {0,1}
+@ATTRIBUTE durar {0,1}
+@ATTRIBUTE edificio {0,1}
+@ATTRIBUTE educaci?n {0,1}
+@ATTRIBUTE efectivar {0,1}
+@ATTRIBUTE ego?sta {0,1}
+@ATTRIBUTE ejecuci?n {0,1}
+@ATTRIBUTE ejercicio {0,1}
+@ATTRIBUTE ej?rcito {0,1}
+@ATTRIBUTE electrodom?stico {0,1}
+@ATTRIBUTE elegante {0,1}
+@ATTRIBUTE emplear {0,1}
+@ATTRIBUTE enamorar {0,1}
+@ATTRIBUTE encantar {0,1}
+@ATTRIBUTE en?rgico {0,1}
+@ATTRIBUTE enfadar {0,1}
+@ATTRIBUTE enfermedad {0,1}
+@ATTRIBUTE enfermero {0,1}
+@ATTRIBUTE enfermar {0,1}
+@ATTRIBUTE enfurecer {0,1}
+@ATTRIBUTE enga?ar {0,1}
+@ATTRIBUTE engre?r {0,1}
+@ATTRIBUTE ensalada {0,1}
+@ATTRIBUTE enterrar {0,1}
+@ATTRIBUTE entrometer {0,1}
+@ATTRIBUTE entusiasmar {0,1}
+@ATTRIBUTE er?tico {0,1}
+@ATTRIBUTE error {0,1}
+@ATTRIBUTE erudito {0,1}
+@ATTRIBUTE escandir {0,1}
+@ATTRIBUTE esc?ptico {0,1}
+@ATTRIBUTE esclavo {0,1}
+@ATTRIBUTE esconder {0,1}
+@ATTRIBUTE escopeta {0,1}
+@ATTRIBUTE escorbuto {0,1}
+@ATTRIBUTE escoriar {0,1}
+@ATTRIBUTE escorpi?n {0,1}
+@ATTRIBUTE escritor {0,1}
+@ATTRIBUTE esfera {0,1}
+@ATTRIBUTE espaciar {0,1}
+@ATTRIBUTE espantoso {0,1}
+@ATTRIBUTE esperanzar {0,1}
+@ATTRIBUTE espina {0,1}
+@ATTRIBUTE esp?ritu {0,1}
+@ATTRIBUTE esposa {0,1}
+@ATTRIBUTE esposo {0,1}
+@ATTRIBUTE espumar {0,1}
+@ATTRIBUTE esquinar {0,1}
+@ATTRIBUTE estancar {0,1}
+@ATTRIBUTE estatua {0,1}
+@ATTRIBUTE esti?rcol {0,1}
+@ATTRIBUTE est?mago {0,1}
+@ATTRIBUTE estrellar {0,1}
+@ATTRIBUTE estremecer {0,1}
+@ATTRIBUTE estr?s {0,1}
+@ATTRIBUTE estufar {0,1}
+@ATTRIBUTE est?pido {0,1}
+@ATTRIBUTE euf?rico {0,1}
+@ATTRIBUTE excelencia {0,1}
+@ATTRIBUTE excitar {0,1}
+@ATTRIBUTE excusar {0,1}
+@ATTRIBUTE ?xito {0,1}
+@ATTRIBUTE exquisito {0,1}
+@ATTRIBUTE ?xtasis {0,1}
+@ATTRIBUTE exterior {0,1}
+@ATTRIBUTE extraordinario {0,1}
+@ATTRIBUTE extraterrestre {0,1}
+@ATTRIBUTE f?cil {0,1}
+@ATTRIBUTE falsar {0,1}
+@ATTRIBUTE fama {0,1}
+@ATTRIBUTE fam?lico {0,1}
+@ATTRIBUTE familia {0,1}
+@ATTRIBUTE famoso {0,1}
+@ATTRIBUTE fantas?a {0,1}
+@ATTRIBUTE faro {0,1}
+@ATTRIBUTE farol {0,1}
+@ATTRIBUTE fascinar {0,1}
+@ATTRIBUTE fase {0,1}
+@ATTRIBUTE fastidiar {0,1}
+@ATTRIBUTE fatigar {0,1}
+@ATTRIBUTE favor {0,1}
+@ATTRIBUTE feliz {0,1}
+@ATTRIBUTE feo {0,1}
+@ATTRIBUTE festivo {0,1}
+@ATTRIBUTE f?tido {0,1}
+@ATTRIBUTE fiebre {0,1}
+@ATTRIBUTE fiesta {0,1}
+@ATTRIBUTE firmamento {0,1}
+@ATTRIBUTE flem?n {0,1}
+@ATTRIBUTE flexible {0,1}
+@ATTRIBUTE flor {0,1}
+@ATTRIBUTE florecer {0,1}
+@ATTRIBUTE fofo {0,1}
+@ATTRIBUTE folleto {0,1}
+@ATTRIBUTE foll?n {0,1}
+@ATTRIBUTE fortuito {0,1}
+@ATTRIBUTE fracasar {0,1}
+@ATTRIBUTE fragancia {0,1}
+@ATTRIBUTE fraude {0,1}
+@ATTRIBUTE fre?r {0,1}
+@ATTRIBUTE frustrar {0,1}
+@ATTRIBUTE fuego {0,1}
+@ATTRIBUTE fuerte {0,1}
+@ATTRIBUTE funeral {0,1}
+@ATTRIBUTE furcia {0,1}
+@ATTRIBUTE fusil {0,1}
+@ATTRIBUTE ganancia {0,1}
+@ATTRIBUTE ganar {0,1}
+@ATTRIBUTE gangrenar {0,1}
+@ATTRIBUTE gato {0,1}
+@ATTRIBUTE g?lido {0,1}
+@ATTRIBUTE g?nero {0,1}
+@ATTRIBUTE generoso {0,1}
+@ATTRIBUTE genial {0,1}
+@ATTRIBUTE gente {0,1}
+@ATTRIBUTE germen {0,1}
+@ATTRIBUTE gimnasta {0,1}
+@ATTRIBUTE glaciar {0,1}
+@ATTRIBUTE glamour {0,1}
+@ATTRIBUTE gloriar {0,1}
+@ATTRIBUTE gozar {0,1}
+@ATTRIBUTE golfista {0,1}
+@ATTRIBUTE golpe {0,1}
+@ATTRIBUTE gordo {0,1}
+@ATTRIBUTE graduar {0,1}
+@ATTRIBUTE granar {0,1}
+@ATTRIBUTE granja {0,1}
+@ATTRIBUTE gravar {0,1}
+@ATTRIBUTE gritar {0,1}
+@ATTRIBUTE grosero {0,1}
+@ATTRIBUTE guapo {0,1}
+@ATTRIBUTE guarder?a {0,1}
+@ATTRIBUTE guerra {0,1}
+@ATTRIBUTE guillotinar {0,1}
+@ATTRIBUTE gui?ar {0,1}
+@ATTRIBUTE gusano {0,1}
+@ATTRIBUTE habitante {0,1}
+@ATTRIBUTE h?bito {0,1}
+@ATTRIBUTE halc?n {0,1}
+@ATTRIBUTE hambriento {0,1}
+@ATTRIBUTE hamburguesa {0,1}
+@ATTRIBUTE hartar {0,1}
+@ATTRIBUTE hastiar {0,1}
+@ATTRIBUTE hedor {0,1}
+@ATTRIBUTE heno {0,1}
+@ATTRIBUTE herir {0,1}
+@ATTRIBUTE hermanar {0,1}
+@ATTRIBUTE hermoso {0,1}
+@ATTRIBUTE hero?na {0,1}
+@ATTRIBUTE herramienta {0,1}
+@ATTRIBUTE hervir {0,1}
+@ATTRIBUTE herrar {0,1}
+@ATTRIBUTE historiar {0,1}
+@ATTRIBUTE hogar {0,1}
+@ATTRIBUTE hombre {0,1}
+@ATTRIBUTE homicida {0,1}
+@ATTRIBUTE honesto {0,1}
+@ATTRIBUTE hongo {0,1}
+@ATTRIBUTE honor {0,1}
+@ATTRIBUTE hornear {0,1}
+@ATTRIBUTE horquillar {0,1}
+@ATTRIBUTE horror {0,1}
+@ATTRIBUTE hospital {0,1}
+@ATTRIBUTE hostil {0,1}
+@ATTRIBUTE hotel {0,1}
+@ATTRIBUTE huevar {0,1}
+@ATTRIBUTE humanar {0,1}
+@ATTRIBUTE humilde {0,1}
+@ATTRIBUTE humillar {0,1}
+@ATTRIBUTE humor {0,1}
+@ATTRIBUTE hurac?n {0,1}
+@ATTRIBUTE idear {0,1}
+@ATTRIBUTE identidad {0,1}
+@ATTRIBUTE idiota {0,1}
+@ATTRIBUTE ?dolo {0,1}
+@ATTRIBUTE iglesia {0,1}
+@ATTRIBUTE ignorancia {0,1}
+@ATTRIBUTE imaginar {0,1}
+@ATTRIBUTE imparcial {0,1}
+@ATTRIBUTE impotente {0,1}
+@ATTRIBUTE impresionar {0,1}
+@ATTRIBUTE incentivar {0,1}
+@ATTRIBUTE incomodidad {0,1}
+@ATTRIBUTE incordiar {0,1}
+@ATTRIBUTE indefenso {0,1}
+@ATTRIBUTE indiferente {0,1}
+@ATTRIBUTE industriar {0,1}
+@ATTRIBUTE infecci?n {0,1}
+@ATTRIBUTE infeliz {0,1}
+@ATTRIBUTE inferior {0,1}
+@ATTRIBUTE infiel {0,1}
+@ATTRIBUTE infernar {0,1}
+@ATTRIBUTE ingeniar {0,1}
+@ATTRIBUTE inmaduro {0,1}
+@ATTRIBUTE inmoral {0,1}
+@ATTRIBUTE inocente {0,1}
+@ATTRIBUTE inquietar {0,1}
+@ATTRIBUTE insecto {0,1}
+@ATTRIBUTE inseguro {0,1}
+@ATTRIBUTE insolente {0,1}
+@ATTRIBUTE inspirar {0,1}
+@ATTRIBUTE insultar {0,1}
+@ATTRIBUTE intelecto {0,1}
+@ATTRIBUTE inter?s {0,1}
+@ATTRIBUTE ?ntimo {0,1}
+@ATTRIBUTE intruso {0,1}
+@ATTRIBUTE inundaci?n {0,1}
+@ATTRIBUTE in?til {0,1}
+@ATTRIBUTE invasor {0,1}
+@ATTRIBUTE invertir {0,1}
+@ATTRIBUTE invitaci?n {0,1}
+@ATTRIBUTE irritar {0,1}
+@ATTRIBUTE jaqueca {0,1}
+@ATTRIBUTE jard?n {0,1}
+@ATTRIBUTE jarra {0,1}
+@ATTRIBUTE joven {0,1}
+@ATTRIBUTE jovial {0,1}
+@ATTRIBUTE joya {0,1}
+@ATTRIBUTE j?bilo {0,1}
+@ATTRIBUTE jubiloso {0,1}
+@ATTRIBUTE jugar {0,1}
+@ATTRIBUTE juguete {0,1}
+@ATTRIBUTE justicia {0,1}
+@ATTRIBUTE juventud {0,1}
+@ATTRIBUTE ketchup {0,1}
+@ATTRIBUTE ladr?n {0,1}
+@ATTRIBUTE lago {0,1}
+@ATTRIBUTE l?mpara {0,1}
+@ATTRIBUTE l?nguido {0,1}
+@ATTRIBUTE l?piz {0,1}
+@ATTRIBUTE l?stima {0,1}
+@ATTRIBUTE lavabo {0,1}
+@ATTRIBUTE leal {0,1}
+@ATTRIBUTE lechar {0,1}
+@ATTRIBUTE lento {0,1}
+@ATTRIBUTE le?n {0,1}
+@ATTRIBUTE lepra {0,1}
+@ATTRIBUTE lesbiana {0,1}
+@ATTRIBUTE lesi?n {0,1}
+@ATTRIBUTE leyenda {0,1}
+@ATTRIBUTE liberaci?n {0,1}
+@ATTRIBUTE libertar {0,1}
+@ATTRIBUTE librar {0,1}
+@ATTRIBUTE libro {0,1}
+@ATTRIBUTE licenciar {0,1}
+@ATTRIBUTE l?der {0,1}
+@ATTRIBUTE ligar {0,1}
+@ATTRIBUTE linterna {0,1}
+@ATTRIBUTE liso {0,1}
+@ATTRIBUTE litro {0,1}
+@ATTRIBUTE llano {0,1}
+@ATTRIBUTE llave {0,1}
+@ATTRIBUTE lloriquear {0,1}
+@ATTRIBUTE lluvia {0,1}
+@ATTRIBUTE l?brego {0,1}
+@ATTRIBUTE loco {0,1}
+@ATTRIBUTE lograr {0,1}
+@ATTRIBUTE loter?a {0,1}
+@ATTRIBUTE luchar {0,1}
+@ATTRIBUTE lujar {0,1}
+@ATTRIBUTE lujuriar {0,1}
+@ATTRIBUTE madre {0,1}
+@ATTRIBUTE maestro {0,1}
+@ATTRIBUTE magdalena {0,1}
+@ATTRIBUTE m?gico {0,1}
+@ATTRIBUTE magistral {0,1}
+@ATTRIBUTE malaria {0,1}
+@ATTRIBUTE maleducar {0,1}
+@ATTRIBUTE maletero {0,1}
+@ATTRIBUTE maliciar {0,1}
+@ATTRIBUTE maltratar {0,1}
+@ATTRIBUTE malvado {0,1}
+@ATTRIBUTE manera {0,1}
+@ATTRIBUTE manguera {0,1}
+@ATTRIBUTE man?aco {0,1}
+@ATTRIBUTE maniqu? {0,1}
+@ATTRIBUTE manar {0,1}
+@ATTRIBUTE manosear {0,1}
+@ATTRIBUTE manso {0,1}
+@ATTRIBUTE mantequilla {0,1}
+@ATTRIBUTE m?quina {0,1}
+@ATTRIBUTE maquinilla {0,1}
+@ATTRIBUTE maravillar {0,1}
+@ATTRIBUTE marear {0,1}
+@ATTRIBUTE mariposa {0,1}
+@ATTRIBUTE mariquita {0,1}
+@ATTRIBUTE martillar {0,1}
+@ATTRIBUTE masacrar {0,1}
+@ATTRIBUTE mascota {0,1}
+@ATTRIBUTE masturbar {0,1}
+@ATTRIBUTE matanza {0,1}
+@ATTRIBUTE material {0,1}
+@ATTRIBUTE medicinar {0,1}
+@ATTRIBUTE mejorar {0,1}
+@ATTRIBUTE melod?a {0,1}
+@ATTRIBUTE memoria {0,1}
+@ATTRIBUTE mendigar {0,1}
+@ATTRIBUTE menospreciar {0,1}
+@ATTRIBUTE mente {0,1}
+@ATTRIBUTE mentira {0,1}
+@ATTRIBUTE ment?n {0,1}
+@ATTRIBUTE mercar {0,1}
+@ATTRIBUTE mermelada {0,1}
+@ATTRIBUTE mes {0,1}
+@ATTRIBUTE mesar {0,1}
+@ATTRIBUTE metal {0,1}
+@ATTRIBUTE m?todo {0,1}
+@ATTRIBUTE miedoso {0,1}
+@ATTRIBUTE miel {0,1}
+@ATTRIBUTE milagro {0,1}
+@ATTRIBUTE millonario {0,1}
+@ATTRIBUTE miseria {0,1}
+@ATTRIBUTE m?stico {0,1}
+@ATTRIBUTE modesto {0,1}
+@ATTRIBUTE moho {0,1}
+@ATTRIBUTE molde {0,1}
+@ATTRIBUTE molestar {0,1}
+@ATTRIBUTE molestia {0,1}
+@ATTRIBUTE molino {0,1}
+@ATTRIBUTE momento {0,1}
+@ATTRIBUTE monedar {0,1}
+@ATTRIBUTE monja {0,1}
+@ATTRIBUTE mono {0,1}
+@ATTRIBUTE monta?a {0,1}
+@ATTRIBUTE moral {0,1}
+@ATTRIBUTE morboso {0,1}
+@ATTRIBUTE morgue {0,1}
+@ATTRIBUTE mosquito {0,1}
+@ATTRIBUTE motor {0,1}
+@ATTRIBUTE movilidad {0,1}
+@ATTRIBUTE mucosidad {0,1}
+@ATTRIBUTE mueca {0,1}
+@ATTRIBUTE muerte {0,1}
+@ATTRIBUTE morir {0,1}
+@ATTRIBUTE mugre {0,1}
+@ATTRIBUTE mujer {0,1}
+@ATTRIBUTE muleta {0,1}
+@ATTRIBUTE multar {0,1}
+@ATTRIBUTE mundo {0,1}
+@ATTRIBUTE mu?eca {0,1}
+@ATTRIBUTE musculoso {0,1}
+@ATTRIBUTE museo {0,1}
+@ATTRIBUTE m?sica {0,1}
+@ATTRIBUTE mutaci?n {0,1}
+@ATTRIBUTE mutilar {0,1}
+@ATTRIBUTE nadador {0,1}
+@ATTRIBUTE narc?tico {0,1}
+@ATTRIBUTE natural {0,1}
+@ATTRIBUTE naturaleza {0,1}
+@ATTRIBUTE Navidad {0,1}
+@ATTRIBUTE n?ctar {0,1}
+@ATTRIBUTE negligencia {0,1}
+@ATTRIBUTE negro {0,1}
+@ATTRIBUTE nene {0,1}
+@ATTRIBUTE nervioso {0,1}
+@ATTRIBUTE neur?tico {0,1}
+@ATTRIBUTE nevera {0,1}
+@ATTRIBUTE nevar {0,1}
+@ATTRIBUTE ni?o {0,1}
+@ATTRIBUTE nombrar {0,1}
+@ATTRIBUTE noticia {0,1}
+@ATTRIBUTE novia {0,1}
+@ATTRIBUTE novio {0,1}
+@ATTRIBUTE nube {0,1}
+@ATTRIBUTE nublar {0,1}
+@ATTRIBUTE nudo {0,1}
+@ATTRIBUTE nutrir {0,1}
+@ATTRIBUTE obedecer {0,1}
+@ATTRIBUTE obesidad {0,1}
+@ATTRIBUTE obsceno {0,1}
+@ATTRIBUTE obsequiar {0,1}
+@ATTRIBUTE obsesi?n {0,1}
+@ATTRIBUTE ocaso {0,1}
+@ATTRIBUTE oc?ano {0,1}
+@ATTRIBUTE odiar {0,1}
+@ATTRIBUTE ofender {0,1}
+@ATTRIBUTE oficina {0,1}
+@ATTRIBUTE olla {0,1}
+@ATTRIBUTE opci?n {0,1}
+@ATTRIBUTE opini?n {0,1}
+@ATTRIBUTE oportunidad {0,1}
+@ATTRIBUTE optimismo {0,1}
+@ATTRIBUTE ordenar {0,1}
+@ATTRIBUTE ordenador {0,1}
+@ATTRIBUTE orgasmo {0,1}
+@ATTRIBUTE orgullo {0,1}
+@ATTRIBUTE orgulloso {0,1}
+@ATTRIBUTE orinar {0,1}
+@ATTRIBUTE orar {0,1}
+@ATTRIBUTE orquestar {0,1}
+@ATTRIBUTE oscuro {0,1}
+@ATTRIBUTE oto?ar {0,1}
+@ATTRIBUTE oxidar {0,1}
+@ATTRIBUTE paciente {0,1}
+@ATTRIBUTE padre {0,1}
+@ATTRIBUTE p?jaro {0,1}
+@ATTRIBUTE palacio {0,1}
+@ATTRIBUTE paloma {0,1}
+@ATTRIBUTE pancarta {0,1}
+@ATTRIBUTE p?nico {0,1}
+@ATTRIBUTE pantano {0,1}
+@ATTRIBUTE pa?uelo {0,1}
+@ATTRIBUTE papel {0,1}
+@ATTRIBUTE paraguas {0,1}
+@ATTRIBUTE para?so {0,1}
+@ATTRIBUTE par?lisis {0,1}
+@ATTRIBUTE pareja {0,1}
+@ATTRIBUTE partir {0,1}
+@ATTRIBUTE pasaje {0,1}
+@ATTRIBUTE pasillo {0,1}
+@ATTRIBUTE pasi?n {0,1}
+@ATTRIBUTE pastar {0,1}
+@ATTRIBUTE pastel {0,1}
+@ATTRIBUTE patentar {0,1}
+@ATTRIBUTE patriota {0,1}
+@ATTRIBUTE pausar {0,1}
+@ATTRIBUTE paz {0,1}
+@ATTRIBUTE pecar {0,1}
+@ATTRIBUTE pecaminoso {0,1}
+@ATTRIBUTE pel?cula {0,1}
+@ATTRIBUTE peligrar {0,1}
+@ATTRIBUTE pellizcar {0,1}
+@ATTRIBUTE penar {0,1}
+@ATTRIBUTE pene {0,1}
+@ATTRIBUTE penoso {0,1}
+@ATTRIBUTE pensamiento {0,1}
+@ATTRIBUTE perdedor {0,1}
+@ATTRIBUTE perder {0,1}
+@ATTRIBUTE perezoso {0,1}
+@ATTRIBUTE perfecci?n {0,1}
+@ATTRIBUTE perfumar {0,1}
+@ATTRIBUTE perro {0,1}
+@ATTRIBUTE personar {0,1}
+@ATTRIBUTE perverso {0,1}
+@ATTRIBUTE pervertir {0,1}
+@ATTRIBUTE pesadilla {0,1}
+@ATTRIBUTE pesar {0,1}
+@ATTRIBUTE pesaroso {0,1}
+@ATTRIBUTE pescar {0,1}
+@ATTRIBUTE pesimismo {0,1}
+@ATTRIBUTE peste {0,1}
+@ATTRIBUTE pez?n {0,1}
+@ATTRIBUTE piar {0,1}
+@ATTRIBUTE piel {0,1}
+@ATTRIBUTE pieza {0,1}
+@ATTRIBUTE pinchazo {0,1}
+@ATTRIBUTE pintura {0,1}
+@ATTRIBUTE piojo {0,1}
+@ATTRIBUTE pirotecnia {0,1}
+@ATTRIBUTE pistola {0,1}
+@ATTRIBUTE pit?n {0,1}
+@ATTRIBUTE pizza {0,1}
+@ATTRIBUTE placer {0,1}
+@ATTRIBUTE plantar {0,1}
+@ATTRIBUTE playa {0,1}
+@ATTRIBUTE pleito {0,1}
+@ATTRIBUTE pobreza {0,1}
+@ATTRIBUTE poder {0,1}
+@ATTRIBUTE poderoso {0,1}
+@ATTRIBUTE pudrir {0,1}
+@ATTRIBUTE poes?a {0,1}
+@ATTRIBUTE ponzo?a {0,1}
+@ATTRIBUTE porquer?a {0,1}
+@ATTRIBUTE p?ster {0,1}
+@ATTRIBUTE pradera {0,1}
+@ATTRIBUTE precipicio {0,1}
+@ATTRIBUTE predominante {0,1}
+@ATTRIBUTE prendar {0,1}
+@ATTRIBUTE presi?n {0,1}
+@ATTRIBUTE prestigiar {0,1}
+@ATTRIBUTE primavera {0,1}
+@ATTRIBUTE prisi?n {0,1}
+@ATTRIBUTE privacidad {0,1}
+@ATTRIBUTE problema {0,1}
+@ATTRIBUTE progresar {0,1}
+@ATTRIBUTE promoci?n {0,1}
+@ATTRIBUTE proteger {0,1}
+@ATTRIBUTE publicaci?n {0,1}
+@ATTRIBUTE poblar {0,1}
+@ATTRIBUTE puerta {0,1}
+@ATTRIBUTE puntapi? {0,1}
+@ATTRIBUTE pus {0,1}
+@ATTRIBUTE puto {0,1}
+@ATTRIBUTE putrefacto {0,1}
+@ATTRIBUTE quejar {0,1}
+@ATTRIBUTE quemadura {0,1}
+@ATTRIBUTE queroseno {0,1}
+@ATTRIBUTE rabiar {0,1}
+@ATTRIBUTE radiador {0,1}
+@ATTRIBUTE radiante {0,1}
+@ATTRIBUTE radiar {0,1}
+@ATTRIBUTE ramo {0,1}
+@ATTRIBUTE rana {0,1}
+@ATTRIBUTE ranciar {0,1}
+@ATTRIBUTE r?pido {0,1}
+@ATTRIBUTE raptar {0,1}
+@ATTRIBUTE raro {0,1}
+@ATTRIBUTE rascacielos {0,1}
+@ATTRIBUTE rata {0,1}
+@ATTRIBUTE rebelde {0,1}
+@ATTRIBUTE recado {0,1}
+@ATTRIBUTE rechazar {0,1}
+@ATTRIBUTE recogedor {0,1}
+@ATTRIBUTE recompensar {0,1}
+@ATTRIBUTE reconocer {0,1}
+@ATTRIBUTE recuerdo {0,1}
+@ATTRIBUTE refrigerio {0,1}
+@ATTRIBUTE regalar {0,1}
+@ATTRIBUTE reh?n {0,1}
+@ATTRIBUTE reinar {0,1}
+@ATTRIBUTE relajar {0,1}
+@ATTRIBUTE rel?mpago {0,1}
+@ATTRIBUTE reloj {0,1}
+@ATTRIBUTE repisar {0,1}
+@ATTRIBUTE reptil {0,1}
+@ATTRIBUTE repugnante {0,1}
+@ATTRIBUTE rescatar {0,1}
+@ATTRIBUTE resentir {0,1}
+@ATTRIBUTE reservar {0,1}
+@ATTRIBUTE respetar {0,1}
+@ATTRIBUTE respetuoso {0,1}
+@ATTRIBUTE respuesta {0,1}
+@ATTRIBUTE restaurante {0,1}
+@ATTRIBUTE retrasar {0,1}
+@ATTRIBUTE reuni?n {0,1}
+@ATTRIBUTE reverente {0,1}
+@ATTRIBUTE rev?lver {0,1}
+@ATTRIBUTE revolver {0,1}
+@ATTRIBUTE rey {0,1}
+@ATTRIBUTE rifle {0,1}
+@ATTRIBUTE r?gido {0,1}
+@ATTRIBUTE re?ir {0,1}
+@ATTRIBUTE re?r {0,1}
+@ATTRIBUTE riqueza {0,1}
+@ATTRIBUTE risa {0,1}
+@ATTRIBUTE roca {0,1}
+@ATTRIBUTE rojo {0,1}
+@ATTRIBUTE rom?ntico {0,1}
+@ATTRIBUTE ro?a {0,1}
+@ATTRIBUTE ropa {0,1}
+@ATTRIBUTE romper {0,1}
+@ATTRIBUTE rubio {0,1}
+@ATTRIBUTE ruidoso {0,1}
+@ATTRIBUTE sabio {0,1}
+@ATTRIBUTE sabor {0,1}
+@ATTRIBUTE salud {0,1}
+@ATTRIBUTE saludar {0,1}
+@ATTRIBUTE salvador {0,1}
+@ATTRIBUTE sangriento {0,1}
+@ATTRIBUTE santo {0,1}
+@ATTRIBUTE sarampi?n {0,1}
+@ATTRIBUTE satisfacer {0,1}
+@ATTRIBUTE secador {0,1}
+@ATTRIBUTE sedar {0,1}
+@ATTRIBUTE seguro {0,1}
+@ATTRIBUTE seno {0,1}
+@ATTRIBUTE sentimiento {0,1}
+@ATTRIBUTE seriar {0,1}
+@ATTRIBUTE serpiente {0,1}
+@ATTRIBUTE sexar {0,1}
+@ATTRIBUTE sexy {0,1}
+@ATTRIBUTE s?filis {0,1}
+@ATTRIBUTE silbato {0,1}
+@ATTRIBUTE silla {0,1}
+@ATTRIBUTE simp?tico {0,1}
+@ATTRIBUTE snob {0,1}
+@ATTRIBUTE sobrecoger {0,1}
+@ATTRIBUTE sobresaltar {0,1}
+@ATTRIBUTE sociable {0,1}
+@ATTRIBUTE soga {0,1}
+@ATTRIBUTE sol {0,1}
+@ATTRIBUTE solear {0,1}
+@ATTRIBUTE soledad {0,1}
+@ATTRIBUTE solemne {0,1}
+@ATTRIBUTE solitario {0,1}
+@ATTRIBUTE solo {0,1}
+@ATTRIBUTE sombra {0,1}
+@ATTRIBUTE sombrero {0,1}
+@ATTRIBUTE sonajero {0,1}
+@ATTRIBUTE sorprender {0,1}
+@ATTRIBUTE soso {0,1}
+@ATTRIBUTE sospechoso {0,1}
+@ATTRIBUTE spray {0,1}
+@ATTRIBUTE suave {0,1}
+@ATTRIBUTE suburbio {0,1}
+@ATTRIBUTE suciedad {0,1}
+@ATTRIBUTE sucio {0,1}
+@ATTRIBUTE so?ar {0,1}
+@ATTRIBUTE suicidio {0,1}
+@ATTRIBUTE sustentar {0,1}
+@ATTRIBUTE tabaco {0,1}
+@ATTRIBUTE tablero {0,1}
+@ATTRIBUTE taburete {0,1}
+@ATTRIBUTE talento {0,1}
+@ATTRIBUTE tanque {0,1}
+@ATTRIBUTE tarta {0,1}
+@ATTRIBUTE taxi {0,1}
+@ATTRIBUTE tela {0,1}
+@ATTRIBUTE temeroso {0,1}
+@ATTRIBUTE temor {0,1}
+@ATTRIBUTE temperamental {0,1}
+@ATTRIBUTE tenedor {0,1}
+@ATTRIBUTE tenis {0,1}
+@ATTRIBUTE tensar {0,1}
+@ATTRIBUTE tenue {0,1}
+@ATTRIBUTE teor?a {0,1}
+@ATTRIBUTE termita {0,1}
+@ATTRIBUTE term?metro {0,1}
+@ATTRIBUTE terrible {0,1}
+@ATTRIBUTE terrorista {0,1}
+@ATTRIBUTE tesoro {0,1}
+@ATTRIBUTE tibur?n {0,1}
+@ATTRIBUTE tiempo {0,1}
+@ATTRIBUTE tierno {0,1}
+@ATTRIBUTE tierra {0,1}
+@ATTRIBUTE tieso {0,1}
+@ATTRIBUTE tijera {0,1}
+@ATTRIBUTE t?mido {0,1}
+@ATTRIBUTE tintar {0,1}
+@ATTRIBUTE tobillo {0,1}
+@ATTRIBUTE tobog?n {0,1}
+@ATTRIBUTE tolerante {0,1}
+@ATTRIBUTE tonada {0,1}
+@ATTRIBUTE tonter?a {0,1}
+@ATTRIBUTE tonto {0,1}
+@ATTRIBUTE tormenta {0,1}
+@ATTRIBUTE tornar {0,1}
+@ATTRIBUTE torpe {0,1}
+@ATTRIBUTE torrar {0,1}
+@ATTRIBUTE torturar {0,1}
+@ATTRIBUTE t?xico {0,1}
+@ATTRIBUTE tragedia {0,1}
+@ATTRIBUTE traicionar {0,1}
+@ATTRIBUTE traidor {0,1}
+@ATTRIBUTE trampol?n {0,1}
+@ATTRIBUTE tranquilo {0,1}
+@ATTRIBUTE traumar {0,1}
+@ATTRIBUTE traves?a {0,1}
+@ATTRIBUTE travesura {0,1}
+@ATTRIBUTE triste {0,1}
+@ATTRIBUTE triunfante {0,1}
+@ATTRIBUTE triunfar {0,1}
+@ATTRIBUTE trofeo {0,1}
+@ATTRIBUTE trompeta {0,1}
+@ATTRIBUTE tumbar {0,1}
+@ATTRIBUTE tumor {0,1}
+@ATTRIBUTE turbio {0,1}
+@ATTRIBUTE ?lcera {0,1}
+@ATTRIBUTE unidad {0,1}
+@ATTRIBUTE utensilio {0,1}
+@ATTRIBUTE ?til {0,1}
+@ATTRIBUTE vacar {0,1}
+@ATTRIBUTE vacaci?n {0,1}
+@ATTRIBUTE vacilar {0,1}
+@ATTRIBUTE vagina {0,1}
+@ATTRIBUTE valiente {0,1}
+@ATTRIBUTE vampiro {0,1}
+@ATTRIBUTE v?ndalo {0,1}
+@ATTRIBUTE vanidad {0,1}
+@ATTRIBUTE veh?culo {0,1}
+@ATTRIBUTE velero {0,1}
+@ATTRIBUTE veloz {0,1}
+@ATTRIBUTE vencedor {0,1}
+@ATTRIBUTE vencer {0,1}
+@ATTRIBUTE vendar {0,1}
+@ATTRIBUTE veneno {0,1}
+@ATTRIBUTE ventaja {0,1}
+@ATTRIBUTE ventana {0,1}
+@ATTRIBUTE verdad {0,1}
+@ATTRIBUTE verde {0,1}
+@ATTRIBUTE vergonzoso {0,1}
+@ATTRIBUTE vertedero {0,1}
+@ATTRIBUTE vestir {0,1}
+@ATTRIBUTE viaje {0,1}
+@ATTRIBUTE v?ctima {0,1}
+@ATTRIBUTE victimismo {0,1}
+@ATTRIBUTE victoria {0,1}
+@ATTRIBUTE vida {0,1}
+@ATTRIBUTE vidriar {0,1}
+@ATTRIBUTE vigilante {0,1}
+@ATTRIBUTE vigoroso {0,1}
+@ATTRIBUTE venir {0,1}
+@ATTRIBUTE violaci?n {0,1}
+@ATTRIBUTE violentar {0,1}
+@ATTRIBUTE viol?n {0,1}
+@ATTRIBUTE virgen {0,1}
+@ATTRIBUTE virtud {0,1}
+@ATTRIBUTE viruela {0,1}
+@ATTRIBUTE visi?n {0,1}
+@ATTRIBUTE v?vido {0,1}
+@ATTRIBUTE vivir {0,1}
+@ATTRIBUTE volc?n {0,1}
+@ATTRIBUTE v?mito {0,1}
+@ATTRIBUTE yate {0,1}
+@ATTRIBUTE zafiro {0,1}
+@ATTRIBUTE zurrar {0,1}
+@ATTRIBUTE unpleasant {0,1}
+@ATTRIBUTE pleasant {0,1}
+@ATTRIBUTE calm {0,1}
+@ATTRIBUTE excited {0,1}
+@ATTRIBUTE outOfControl {0,1}
+@ATTRIBUTE inControl {0,1}
+
+@DATA
+{749 1,1021 1,1023 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{828 1,1021 1,1023 1,1025 1}
+{825 1,1020 1,1023 1,1024 1}
+{188 1,1021 1,1022 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{0 1,580 1,781 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{659 1,852 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{138 1,616 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{755 1,1021 1,1023 1,1025 1}
+{596 1,1022 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{698 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{575 1,1021 1,1022 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{29 1,197 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{361 1,1021 1,1022 1,1025 1}
+{53 1,336 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{864 1,1020 1,1023 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{438 1,656 1,657 1,1020 1,1021 1,1023 1,1024 1}
+{42 1,1020 1,1023 1,1024 1}
+{936 1,1021 1,1023 1,1024 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{478 1,586 1,662 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{698 1,1020 1,1023 1,1024 1}
+{268 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{176 1,726 1,1020 1,1021 1,1022 1,1025 1}
+{138 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{567 1,586 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{203 1,1021 1,1023 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{309 1,431 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{776 1,1021 1,1023 1,1025 1}
+{309 1,622 1,698 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{575 1,1021 1,1022 1,1025 1}
+{751 1,1020 1,1023 1,1024 1}
+{992 1,1021 1,1023 1,1025 1}
+{283 1,586 1,740 1,963 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{228 1,582 1,1020 1,1022 1,1023 1,1024 1,1025 1}
+{580 1,1021 1,1023 1,1025 1}
+{615 1,1021 1,1022 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{310 1,683 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{657 1,1014 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{684 1,1021 1,1023 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{997 1,1021 1,1023 1,1025 1}
+{138 1,395 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{85 1,1020 1,1023 1,1024 1}
+{128 1,438 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{29 1,197 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{205 1,309 1,1014 1,1021 1,1023 1,1024 1,1025 1}
+{405 1,469 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,1005 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{214 1,996 1,1021 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{222 1,662 1,1021 1,1023 1,1024 1,1025 1}
+{2 1,1020 1,1023 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{153 1,1021 1,1022 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{482 1,683 1,1021 1,1022 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{698 1,1020 1,1023 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{519 1,1021 1,1022 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{586 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{21 1,250 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{822 1,1020 1,1023 1,1024 1}
+{188 1,1021 1,1022 1,1025 1}
+{831 1,1021 1,1023 1,1025 1}
+{546 1,1021 1,1023 1,1024 1}
+{997 1,1021 1,1023 1,1025 1}
+{53 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{29 1,1021 1,1023 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{684 1,963 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{992 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{683 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{471 1,1021 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{37 1,869 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{172 1,617 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{42 1,1020 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{188 1,351 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{671 1,1021 1,1022 1,1025 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{619 1,665 1,1021 1,1022 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{176 1,203 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{726 1,781 1,936 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{698 1,1020 1,1023 1,1024 1}
+{37 1,1021 1,1022 1,1024 1}
+{963 1,1020 1,1022 1,1024 1}
+{222 1,1021 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{303 1,665 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{662 1,1021 1,1023 1,1024 1}
+{54 1,309 1,781 1,1021 1,1023 1,1024 1,1025 1}
+{717 1,949 1,1020 1,1022 1,1023 1,1024 1}
+{751 1,878 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{188 1,899 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{864 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{188 1,438 1,683 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{657 1,665 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{828 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{760 1,1020 1,1023 1,1024 1}
+{116 1,227 1,781 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{159 1,1020 1,1022 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{659 1,1021 1,1022 1,1025 1}
+{15 1,1021 1,1022 1,1025 1}
+{82 1,843 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,586 1,936 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{582 1,1020 1,1023 1,1024 1}
+{580 1,1021 1,1023 1,1025 1}
+{988 1,1020 1,1022 1,1024 1}
+{46 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{661 1,1020 1,1023 1,1024 1}
+{662 1,1021 1,1023 1,1024 1}
+{69 1,1020 1,1023 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{478 1,1021 1,1023 1,1025 1}
+{993 1,1021 1,1022 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{746 1,1020 1,1022 1,1024 1}
+{309 1,452 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{222 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{173 1,806 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{222 1,477 1,718 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{659 1,1021 1,1022 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{54 1,312 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{659 1,1021 1,1022 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{751 1,1001 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{176 1,726 1,1005 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{73 1,1021 1,1023 1,1024 1}
+{1005 1,1014 1,1020 1,1021 1,1023 1,1025 1}
+{684 1,1021 1,1023 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{188 1,309 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{732 1,1021 1,1022 1,1024 1}
+{431 1,1021 1,1023 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{936 1,1021 1,1023 1,1024 1}
+{684 1,1021 1,1023 1,1024 1}
+{822 1,1020 1,1023 1,1024 1}
+{477 1,1021 1,1023 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{73 1,740 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{54 1,1021 1,1023 1,1024 1}
+{968 1,1020 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{751 1,1020 1,1023 1,1024 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{21 1,250 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{972 1,1021 1,1022 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{138 1,797 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,852 1,899 1,1020 1,1021 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{438 1,1021 1,1023 1,1024 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,1005 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{465 1,1020 1,1023 1,1024 1}
+{643 1,1021 1,1023 1,1025 1}
+{309 1,431 1,544 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{684 1,963 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{992 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{215 1,665 1,1021 1,1022 1,1023 1,1025 1}
+{138 1,567 1,1021 1,1022 1,1023 1,1025 1}
+{808 1,845 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{172 1,617 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{1005 1,1020 1,1023 1,1025 1}
+{37 1,1021 1,1022 1,1024 1}
+{138 1,309 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{643 1,1021 1,1023 1,1025 1}
+{173 1,1021 1,1022 1,1025 1}
+{607 1,1020 1,1023 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{963 1,1020 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{320 1,431 1,1001 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{1010 1,1021 1,1023 1,1025 1}
+{843 1,1021 1,1022 1,1025 1}
+{776 1,1021 1,1023 1,1025 1}
+{1005 1,1020 1,1023 1,1025 1}
+{188 1,1021 1,1022 1,1025 1}
+{53 1,586 1,643 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{188 1,351 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{478 1,1021 1,1023 1,1025 1}
+{988 1,1020 1,1022 1,1024 1}
+{54 1,1021 1,1023 1,1024 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{683 1,1021 1,1022 1,1025 1}
+{181 1,1021 1,1023 1,1025 1}
+{438 1,858 1,1021 1,1023 1,1024 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{683 1,1021 1,1022 1,1025 1}
+{438 1,1021 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{683 1,1021 1,1022 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{351 1,1020 1,1023 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{69 1,1020 1,1023 1,1024 1}
+{395 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{203 1,1021 1,1023 1,1024 1}
+{309 1,431 1,1021 1,1023 1,1025 1}
+{407 1,936 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{808 1,1020 1,1023 1,1024 1}
+{146 1,1020 1,1023 1,1024 1}
+{471 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,431 1,1021 1,1023 1,1025 1}
+{309 1,726 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{586 1,828 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{539 1,781 1,1014 1,1021 1,1023 1,1024 1,1025 1}
+{188 1,1005 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{266 1,1020 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{575 1,586 1,803 1,1021 1,1022 1,1024 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{482 1,1021 1,1023 1,1025 1}
+{988 1,1020 1,1022 1,1024 1}
+{238 1,309 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{222 1,712 1,1021 1,1023 1,1025 1}
+{471 1,1021 1,1023 1,1025 1}
+{478 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{731 1,755 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{580 1,1021 1,1023 1,1025 1}
+{188 1,351 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{351 1,1020 1,1023 1,1024 1}
+{665 1,1021 1,1022 1,1025 1}
+{499 1,533 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{53 1,1021 1,1023 1,1025 1}
+{326 1,687 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{334 1,781 1,996 1,1021 1,1023 1,1025 1}
+{147 1,617 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{567 1,586 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{288 1,726 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{751 1,1020 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{128 1,205 1,309 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{992 1,1021 1,1023 1,1025 1}
+{405 1,617 1,1021 1,1023 1,1025 1}
+{69 1,1020 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{242 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{659 1,1021 1,1022 1,1025 1}
+{972 1,1021 1,1022 1,1025 1}
+{188 1,1021 1,1022 1,1025 1}
+{54 1,1001 1,1021 1,1023 1,1024 1,1025 1}
+{629 1,781 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{222 1,797 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,749 1,1001 1,1021 1,1022 1,1023 1,1025 1}
+{130 1,1021 1,1022 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,948 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{188 1,718 1,1021 1,1022 1,1024 1,1025 1}
+{1001 1,1021 1,1023 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{309 1,431 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{63 1,843 1,878 1,1021 1,1022 1,1023 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{845 1,1021 1,1023 1,1025 1}
+{340 1,590 1,656 1,657 1,1020 1,1023 1,1024 1}
+{222 1,751 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{128 1,205 1,309 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{436 1,1021 1,1023 1,1025 1}
+{951 1,1020 1,1023 1,1024 1}
+{336 1,478 1,586 1,662 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{992 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,899 1,1020 1,1021 1,1022 1,1024 1}
+{1009 1,1020 1,1022 1,1025 1}
+{214 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{283 1,586 1,740 1,1021 1,1022 1,1024 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{176 1,585 1,1021 1,1022 1,1023 1,1025 1}
+{53 1,684 1,1021 1,1023 1,1024 1,1025 1}
+{643 1,1021 1,1023 1,1025 1}
+{828 1,1021 1,1023 1,1025 1}
+{1001 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{313 1,1021 1,1022 1,1024 1}
+{665 1,1021 1,1022 1,1025 1}
+{312 1,619 1,665 1,1021 1,1022 1,1023 1,1025 1}
+{73 1,1021 1,1023 1,1024 1}
+{212 1,1020 1,1022 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{437 1,1021 1,1023 1,1025 1}
+{106 1,539 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{46 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{42 1,936 1,1020 1,1021 1,1023 1,1024 1}
+{21 1,250 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{845 1,1021 1,1023 1,1025 1}
+{309 1,781 1,972 1,1021 1,1022 1,1023 1,1025 1}
+{106 1,1021 1,1022 1,1025 1}
+{138 1,188 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{337 1,1021 1,1023 1,1025 1}
+{659 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{309 1,683 1,1021 1,1022 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{149 1,1021 1,1023 1,1025 1}
+{15 1,1021 1,1022 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{831 1,933 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{539 1,845 1,1021 1,1023 1,1024 1,1025 1}
+{596 1,657 1,1020 1,1022 1,1023 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{52 1,452 1,959 1,1005 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{438 1,580 1,1021 1,1023 1,1024 1,1025 1}
+{214 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{172 1,617 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{698 1,1020 1,1023 1,1024 1}
+{147 1,149 1,331 1,1021 1,1023 1,1025 1}
+{992 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{123 1,138 1,586 1,643 1,997 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{656 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{188 1,351 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{683 1,1021 1,1022 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{312 1,1021 1,1023 1,1025 1}
+{800 1,917 1,1021 1,1022 1,1023 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{718 1,1021 1,1022 1,1024 1}
+{1005 1,1020 1,1023 1,1025 1}
+{172 1,617 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{580 1,1021 1,1023 1,1025 1}
+{249 1,704 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{324 1,1021 1,1022 1,1025 1}
+{138 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{172 1,1021 1,1023 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{572 1,806 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{63 1,1021 1,1023 1,1025 1}
+{34 1,257 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{107 1,431 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{720 1,1021 1,1023 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{585 1,718 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{448 1,899 1,1001 1,1005 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{881 1,1020 1,1022 1,1024 1}
+{671 1,1021 1,1022 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{539 1,845 1,1021 1,1023 1,1024 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{313 1,1021 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{46 1,662 1,1021 1,1023 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{241 1,1021 1,1022 1,1024 1}
+{731 1,1020 1,1022 1,1025 1}
+{309 1,586 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{176 1,1021 1,1022 1,1025 1}
+{73 1,1021 1,1023 1,1024 1}
+{146 1,222 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{684 1,1021 1,1023 1,1024 1}
+{586 1,640 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{1001 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{665 1,1021 1,1022 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{173 1,806 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{899 1,992 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{684 1,825 1,894 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{870 1,1021 1,1023 1,1025 1}
+{395 1,404 1,1021 1,1023 1,1025 1}
+{740 1,1021 1,1022 1,1025 1}
+{996 1,1021 1,1023 1,1025 1}
+{410 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{176 1,1021 1,1022 1,1025 1}
+{172 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{54 1,417 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{283 1,586 1,740 1,1021 1,1022 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{718 1,1021 1,1022 1,1024 1}
+{426 1,1001 1,1021 1,1023 1,1025 1}
+{634 1,1021 1,1023 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{692 1,1020 1,1023 1,1024 1}
+{567 1,1021 1,1023 1,1025 1}
+{69 1,1020 1,1023 1,1024 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{520 1,1020 1,1023 1,1024 1}
+{382 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{495 1,1021 1,1023 1,1025 1}
+{176 1,684 1,1001 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{336 1,1021 1,1023 1,1024 1}
+{731 1,1020 1,1022 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{718 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,585 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{899 1,1020 1,1022 1,1024 1}
+{138 1,1005 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{212 1,1020 1,1022 1,1025 1}
+{797 1,1020 1,1023 1,1024 1}
+{85 1,1020 1,1023 1,1024 1}
+{760 1,852 1,936 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{15 1,1021 1,1022 1,1025 1}
+{633 1,1021 1,1023 1,1024 1}
+{37 1,731 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{46 1,992 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{831 1,933 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{894 1,1021 1,1023 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{431 1,1021 1,1023 1,1025 1}
+{516 1,1021 1,1023 1,1025 1}
+{146 1,938 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{313 1,478 1,873 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{222 1,580 1,1021 1,1023 1,1025 1}
+{172 1,617 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{173 1,806 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,176 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{585 1,1021 1,1023 1,1025 1}
+{222 1,797 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{146 1,1020 1,1023 1,1024 1}
+{731 1,776 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{471 1,1021 1,1023 1,1025 1}
+{300 1,1020 1,1023 1,1024 1}
+{704 1,1021 1,1023 1,1025 1}
+{586 1,936 1,1021 1,1022 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{69 1,1020 1,1023 1,1024 1}
+{808 1,1020 1,1023 1,1024 1}
+{80 1,1021 1,1023 1,1024 1}
+{539 1,845 1,1021 1,1023 1,1024 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{438 1,1021 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{580 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{309 1,586 1,936 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{53 1,1021 1,1023 1,1025 1}
+{324 1,1021 1,1022 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{665 1,1021 1,1022 1,1025 1}
+{309 1,627 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{29 1,1021 1,1023 1,1025 1}
+{683 1,1021 1,1022 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{162 1,395 1,452 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{222 1,473 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{803 1,1021 1,1022 1,1025 1}
+{643 1,684 1,1021 1,1023 1,1024 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{478 1,582 1,659 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{37 1,869 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{1005 1,1020 1,1023 1,1025 1}
+{337 1,478 1,659 1,993 1,1021 1,1022 1,1023 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{438 1,1021 1,1023 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{176 1,324 1,1021 1,1022 1,1025 1}
+{438 1,936 1,1021 1,1023 1,1024 1}
+{176 1,726 1,1020 1,1021 1,1022 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{138 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{63 1,1021 1,1023 1,1025 1}
+{665 1,1005 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{704 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{312 1,894 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{228 1,582 1,1020 1,1022 1,1023 1,1024 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{238 1,596 1,1020 1,1022 1,1023 1,1024 1}
+{309 1,933 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{146 1,1020 1,1023 1,1024 1}
+{567 1,1021 1,1023 1,1025 1}
+{122 1,1020 1,1023 1,1024 1}
+{438 1,1021 1,1023 1,1024 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{74 1,1021 1,1023 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{162 1,992 1,1021 1,1023 1,1025 1}
+{662 1,731 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{176 1,1021 1,1022 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{633 1,1021 1,1023 1,1024 1}
+{877 1,1021 1,1022 1,1025 1}
+{46 1,992 1,1021 1,1023 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{1005 1,1020 1,1023 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{871 1,1021 1,1023 1,1025 1}
+{361 1,1021 1,1022 1,1025 1}
+{404 1,1021 1,1023 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{36 1,936 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{283 1,586 1,740 1,963 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{126 1,1021 1,1022 1,1025 1}
+{73 1,1021 1,1023 1,1024 1}
+{781 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,312 1,1021 1,1023 1,1025 1}
+{806 1,1001 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{926 1,1021 1,1023 1,1025 1}
+{324 1,1021 1,1022 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{53 1,54 1,138 1,395 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{539 1,1021 1,1023 1,1024 1}
+{869 1,1021 1,1023 1,1025 1}
+{448 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{900 1,1020 1,1022 1,1024 1}
+{665 1,1021 1,1022 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{410 1,820 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{361 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{803 1,1021 1,1022 1,1025 1}
+{972 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{222 1,431 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{803 1,1021 1,1022 1,1025 1}
+{404 1,1021 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{731 1,1020 1,1022 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{873 1,1020 1,1022 1,1024 1}
+{176 1,1021 1,1022 1,1025 1}
+{188 1,1021 1,1022 1,1025 1}
+{0 1,781 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{1005 1,1020 1,1023 1,1025 1}
+{490 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{979 1,1021 1,1023 1,1025 1}
+{138 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{188 1,424 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{188 1,336 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{760 1,852 1,936 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{340 1,590 1,656 1,657 1,1020 1,1023 1,1024 1}
+{676 1,1020 1,1022 1,1024 1}
+{222 1,1021 1,1023 1,1025 1}
+{75 1,1020 1,1022 1,1024 1}
+{29 1,1021 1,1023 1,1025 1}
+{7 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{162 1,395 1,452 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{69 1,1020 1,1023 1,1024 1}
+{277 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{501 1,1021 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{451 1,1020 1,1023 1,1024 1}
+{138 1,586 1,1021 1,1022 1,1024 1,1025 1}
+{963 1,1005 1,1020 1,1022 1,1023 1,1024 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{270 1,1021 1,1023 1,1024 1}
+{451 1,1020 1,1023 1,1024 1}
+{21 1,250 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{633 1,1005 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{926 1,1021 1,1023 1,1025 1}
+{128 1,205 1,309 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{176 1,1021 1,1022 1,1025 1}
+{313 1,1021 1,1022 1,1024 1}
+{656 1,1020 1,1023 1,1024 1}
+{1005 1,1020 1,1023 1,1025 1}
+{963 1,1020 1,1022 1,1024 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{188 1,1021 1,1022 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{972 1,1021 1,1022 1,1025 1}
+{114 1,1020 1,1022 1,1024 1}
+{37 1,1021 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{526 1,936 1,1021 1,1023 1,1024 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{15 1,1021 1,1022 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{53 1,1021 1,1023 1,1025 1}
+{410 1,1009 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{633 1,1021 1,1023 1,1024 1}
+{15 1,1021 1,1022 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,726 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{519 1,1021 1,1022 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{46 1,992 1,1021 1,1023 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{313 1,1021 1,1022 1,1024 1}
+{438 1,501 1,988 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{731 1,1020 1,1022 1,1025 1}
+{633 1,1021 1,1023 1,1024 1}
+{138 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{751 1,1020 1,1023 1,1024 1}
+{776 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{176 1,324 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{212 1,309 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{1010 1,1021 1,1023 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{671 1,1021 1,1022 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{567 1,1021 1,1023 1,1025 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{277 1,633 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{222 1,797 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{138 1,431 1,1021 1,1022 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{283 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{405 1,1021 1,1023 1,1025 1}
+{214 1,1021 1,1023 1,1025 1}
+{780 1,1005 1,1020 1,1023 1,1024 1,1025 1}
+{657 1,662 1,1020 1,1021 1,1023 1,1024 1}
+{783 1,1020 1,1023 1,1024 1}
+{42 1,1020 1,1023 1,1024 1}
+{146 1,164 1,781 1,933 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{138 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{586 1,992 1,1009 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{648 1,1021 1,1023 1,1025 1}
+{731 1,1020 1,1022 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{926 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{864 1,1020 1,1023 1,1024 1}
+{438 1,781 1,1021 1,1023 1,1024 1,1025 1}
+{524 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{138 1,586 1,781 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{586 1,948 1,1020 1,1021 1,1022 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{313 1,323 1,586 1,1014 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{53 1,662 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{53 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{585 1,806 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{223 1,1021 1,1022 1,1025 1}
+{123 1,899 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{106 1,222 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{731 1,1020 1,1022 1,1025 1}
+{731 1,1020 1,1022 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{452 1,1020 1,1023 1,1024 1}
+{51 1,1020 1,1023 1,1024 1}
+{656 1,1020 1,1023 1,1024 1}
+{482 1,1021 1,1023 1,1025 1}
+{324 1,1021 1,1022 1,1025 1}
+{29 1,138 1,1021 1,1022 1,1023 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{176 1,326 1,471 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{312 1,623 1,781 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,222 1,1021 1,1022 1,1023 1,1025 1}
+{582 1,1020 1,1023 1,1024 1}
+{309 1,324 1,1014 1,1021 1,1022 1,1023 1,1025 1}
+{656 1,1020 1,1023 1,1024 1}
+{648 1,1021 1,1023 1,1025 1}
+{283 1,586 1,1021 1,1022 1,1024 1,1025 1}
+{54 1,1001 1,1021 1,1023 1,1024 1,1025 1}
+{382 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{972 1,1021 1,1022 1,1025 1}
+{229 1,1021 1,1023 1,1025 1}
+{147 1,149 1,331 1,1021 1,1023 1,1025 1}
+{623 1,662 1,1020 1,1021 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{222 1,712 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{979 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{803 1,1021 1,1022 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{138 1,215 1,1021 1,1022 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{300 1,1020 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{431 1,1021 1,1023 1,1025 1}
+{404 1,544 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{938 1,1021 1,1022 1,1024 1}
+{0 1,781 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{580 1,1021 1,1023 1,1025 1}
+{567 1,1001 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{612 1,755 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{149 1,176 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{438 1,1021 1,1023 1,1024 1}
+{54 1,1021 1,1023 1,1024 1}
+{825 1,1020 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{6 1,1020 1,1022 1,1024 1}
+{261 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{1005 1,1020 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{395 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{683 1,1021 1,1022 1,1025 1}
+{257 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{963 1,1020 1,1022 1,1024 1}
+{899 1,992 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{176 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{731 1,1020 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{77 1,933 1,1020 1,1023 1,1024 1}
+{366 1,1001 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{988 1,1020 1,1022 1,1024 1}
+{283 1,446 1,586 1,740 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{731 1,1020 1,1022 1,1025 1}
+{936 1,1021 1,1023 1,1024 1}
+{405 1,659 1,1021 1,1022 1,1023 1,1025 1}
+{300 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{963 1,1020 1,1022 1,1024 1}
+{623 1,662 1,1020 1,1021 1,1023 1,1024 1}
+{539 1,1021 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{188 1,214 1,222 1,431 1,718 1,963 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{205 1,309 1,1014 1,1021 1,1023 1,1024 1,1025 1}
+{979 1,1021 1,1023 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{683 1,710 1,1021 1,1022 1,1023 1,1025 1}
+{228 1,684 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{656 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{1001 1,1021 1,1023 1,1025 1}
+{953 1,1014 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{643 1,936 1,1021 1,1023 1,1024 1,1025 1}
+{615 1,808 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{46 1,586 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{698 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,776 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{222 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{324 1,936 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{249 1,704 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{698 1,1020 1,1023 1,1024 1}
+{267 1,863 1,1021 1,1023 1,1025 1}
+{656 1,1020 1,1023 1,1024 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{176 1,726 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{579 1,1020 1,1023 1,1024 1}
+{659 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{53 1,309 1,452 1,586 1,938 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,492 1,903 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{331 1,751 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,880 1,1021 1,1023 1,1024 1,1025 1}
+{53 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{656 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{477 1,1021 1,1023 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{123 1,814 1,1021 1,1022 1,1023 1,1025 1}
+{781 1,936 1,1021 1,1023 1,1024 1,1025 1}
+{819 1,1020 1,1023 1,1024 1}
+{869 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{938 1,1021 1,1022 1,1024 1}
+{106 1,138 1,751 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{731 1,1020 1,1022 1,1025 1}
+{313 1,1021 1,1022 1,1024 1}
+{662 1,1021 1,1023 1,1024 1}
+{162 1,222 1,662 1,1021 1,1023 1,1024 1,1025 1}
+{340 1,590 1,656 1,657 1,1020 1,1023 1,1024 1}
+{324 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{684 1,1021 1,1023 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{73 1,1021 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{142 1,414 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{250 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{147 1,972 1,1001 1,1021 1,1022 1,1023 1,1025 1}
+{797 1,1020 1,1023 1,1024 1}
+{755 1,1021 1,1023 1,1025 1}
+{73 1,138 1,203 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{596 1,1022 1,1024 1}
+{471 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{222 1,1021 1,1023 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,623 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{337 1,1021 1,1023 1,1025 1}
+{309 1,579 1,760 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{493 1,586 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{146 1,1020 1,1023 1,1024 1}
+{268 1,1021 1,1023 1,1025 1}
+{188 1,309 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{77 1,1020 1,1023 1,1024 1}
+{389 1,665 1,1021 1,1022 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{438 1,1021 1,1023 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{438 1,678 1,733 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{577 1,1005 1,1020 1,1022 1,1023 1,1024 1,1025 1}
+{501 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,405 1,1021 1,1022 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{116 1,718 1,1020 1,1021 1,1022 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{309 1,623 1,873 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,1001 1,1021 1,1023 1,1025 1}
+{203 1,539 1,1021 1,1023 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{586 1,751 1,781 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{149 1,1021 1,1023 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{54 1,1001 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{73 1,1021 1,1023 1,1024 1}
+{683 1,1021 1,1022 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{309 1,586 1,1001 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{409 1,1020 1,1022 1,1024 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{313 1,1021 1,1022 1,1024 1}
+{781 1,936 1,1021 1,1023 1,1024 1,1025 1}
+{450 1,1021 1,1022 1,1025 1}
+{948 1,1005 1,1020 1,1022 1,1023 1,1024 1,1025 1}
+{825 1,1020 1,1023 1,1024 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{283 1,586 1,740 1,963 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{684 1,878 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{486 1,499 1,665 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{203 1,665 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{622 1,1021 1,1023 1,1025 1}
+{128 1,205 1,309 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{176 1,567 1,1021 1,1022 1,1023 1,1025 1}
+{544 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{936 1,1021 1,1023 1,1024 1}
+{1005 1,1020 1,1023 1,1025 1}
+{283 1,586 1,740 1,963 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{37 1,704 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{15 1,1021 1,1022 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{164 1,1021 1,1023 1,1025 1}
+{277 1,283 1,544 1,760 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{176 1,1021 1,1022 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{138 1,586 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{933 1,1020 1,1023 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{622 1,1021 1,1023 1,1025 1}
+{757 1,957 1,1020 1,1023 1,1024 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{438 1,1021 1,1023 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{0 1,73 1,665 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{277 1,685 1,686 1,1021 1,1023 1,1025 1}
+{797 1,1020 1,1023 1,1024 1}
+{488 1,1021 1,1023 1,1025 1}
+{15 1,1021 1,1022 1,1025 1}
+{937 1,1021 1,1022 1,1025 1}
+{936 1,1014 1,1021 1,1023 1,1024 1,1025 1}
+{149 1,1021 1,1023 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,188 1,1021 1,1022 1,1025 1}
+{176 1,1021 1,1022 1,1025 1}
+{138 1,586 1,997 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{718 1,1021 1,1022 1,1024 1}
+{395 1,657 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{146 1,222 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{988 1,1020 1,1022 1,1024 1}
+{438 1,803 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{497 1,1020 1,1023 1,1024 1}
+{544 1,1021 1,1023 1,1025 1}
+{404 1,1021 1,1023 1,1025 1}
+{698 1,1020 1,1023 1,1024 1}
+{53 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{222 1,617 1,643 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{478 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{1001 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{222 1,797 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{136 1,389 1,1014 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{684 1,1021 1,1023 1,1024 1}
+{222 1,712 1,1021 1,1023 1,1025 1}
+{828 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{176 1,1021 1,1022 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{138 1,662 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{8 1,1020 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{437 1,659 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{501 1,585 1,1021 1,1023 1,1025 1}
+{1001 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{138 1,147 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,710 1,1021 1,1023 1,1025 1}
+{438 1,781 1,1021 1,1023 1,1024 1,1025 1}
+{217 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{73 1,1021 1,1023 1,1024 1}
+{138 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{896 1,1020 1,1022 1,1024 1}
+{992 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{54 1,219 1,404 1,903 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,544 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{309 1,683 1,1021 1,1022 1,1023 1,1025 1}
+{438 1,1021 1,1023 1,1024 1}
+{683 1,710 1,1021 1,1022 1,1023 1,1025 1}
+{437 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{340 1,590 1,656 1,657 1,1020 1,1023 1,1024 1}
+{426 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{659 1,828 1,1021 1,1022 1,1023 1,1025 1}
+{283 1,586 1,740 1,1021 1,1022 1,1024 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{567 1,718 1,1014 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{731 1,1020 1,1022 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{456 1,1020 1,1023 1,1024 1}
+{8 1,963 1,1020 1,1022 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{567 1,781 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{808 1,1020 1,1023 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{431 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{148 1,1020 1,1022 1,1024 1}
+{406 1,1020 1,1022 1,1024 1}
+{665 1,1021 1,1022 1,1025 1}
+{544 1,1021 1,1023 1,1025 1}
+{128 1,205 1,309 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{829 1,1021 1,1023 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{567 1,1005 1,1020 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{438 1,567 1,1021 1,1023 1,1024 1,1025 1}
+{544 1,1021 1,1023 1,1025 1}
+{63 1,138 1,1021 1,1022 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{164 1,309 1,324 1,1021 1,1022 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{990 1,1021 1,1023 1,1025 1}
+{53 1,781 1,1021 1,1023 1,1025 1}
+{324 1,585 1,1021 1,1022 1,1023 1,1025 1}
+{75 1,899 1,1020 1,1022 1,1024 1}
+{979 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{203 1,1021 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{426 1,438 1,869 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,586 1,1001 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{525 1,1020 1,1023 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{426 1,1021 1,1023 1,1025 1}
+{845 1,1021 1,1023 1,1025 1}
+{173 1,1021 1,1022 1,1025 1}
+{718 1,1021 1,1022 1,1024 1}
+{988 1,1020 1,1022 1,1024 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{643 1,797 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{337 1,478 1,659 1,993 1,1021 1,1022 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{324 1,1021 1,1022 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{236 1,1021 1,1023 1,1024 1}
+{188 1,351 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{1001 1,1014 1,1021 1,1023 1,1025 1}
+{585 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{816 1,1020 1,1022 1,1024 1}
+{577 1,781 1,1005 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{1005 1,1020 1,1023 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{808 1,1020 1,1023 1,1024 1}
+{300 1,1020 1,1023 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{118 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{465 1,1020 1,1023 1,1024 1}
+{808 1,1020 1,1023 1,1024 1}
+{173 1,806 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{1009 1,1020 1,1022 1,1025 1}
+{283 1,586 1,740 1,963 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{643 1,1021 1,1023 1,1025 1}
+{972 1,1021 1,1022 1,1025 1}
+{414 1,546 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{337 1,1021 1,1023 1,1025 1}
+{309 1,337 1,1021 1,1023 1,1025 1}
+{138 1,869 1,1021 1,1022 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{223 1,1021 1,1022 1,1025 1}
+{313 1,1021 1,1022 1,1024 1}
+{153 1,250 1,496 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{643 1,1021 1,1023 1,1025 1}
+{899 1,1020 1,1022 1,1024 1}
+{1001 1,1021 1,1023 1,1025 1}
+{760 1,852 1,936 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{46 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{410 1,1021 1,1023 1,1025 1}
+{138 1,438 1,586 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{176 1,1021 1,1022 1,1025 1}
+{21 1,250 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{53 1,665 1,1021 1,1022 1,1023 1,1025 1}
+{586 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{1001 1,1021 1,1023 1,1025 1}
+{149 1,1021 1,1023 1,1025 1}
+{580 1,1021 1,1023 1,1025 1}
+{577 1,1020 1,1022 1,1024 1}
+{309 1,431 1,1021 1,1023 1,1025 1}
+{438 1,448 1,1021 1,1023 1,1024 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{63 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{172 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{340 1,580 1,662 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{1001 1,1021 1,1023 1,1025 1}
+{825 1,1020 1,1023 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{808 1,1020 1,1023 1,1024 1}
+{22 1,147 1,404 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{237 1,309 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{627 1,1021 1,1022 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{53 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{128 1,205 1,309 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{0 1,478 1,662 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{405 1,469 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{426 1,533 1,1021 1,1023 1,1025 1}
+{580 1,1021 1,1023 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{627 1,1021 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{456 1,1020 1,1023 1,1024 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{567 1,672 1,1021 1,1023 1,1024 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{781 1,1021 1,1023 1,1025 1}
+{222 1,288 1,1021 1,1023 1,1025 1}
+{249 1,704 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{222 1,250 1,643 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{437 1,1021 1,1023 1,1025 1}
+{643 1,1021 1,1023 1,1025 1}
+{323 1,1020 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{203 1,1021 1,1023 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{683 1,1021 1,1022 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{53 1,69 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{585 1,1021 1,1023 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{313 1,405 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{21 1,1021 1,1022 1,1025 1}
+{665 1,803 1,1021 1,1022 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{760 1,852 1,936 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{621 1,1020 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{478 1,1021 1,1023 1,1025 1}
+{567 1,586 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{257 1,1021 1,1023 1,1025 1}
+{148 1,269 1,1020 1,1022 1,1024 1,1025 1}
+{539 1,845 1,1021 1,1023 1,1024 1,1025 1}
+{138 1,395 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{320 1,1020 1,1023 1,1024 1}
+{188 1,1021 1,1022 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{19 1,107 1,138 1,665 1,781 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{73 1,665 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{0 1,1020 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{176 1,936 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{176 1,1021 1,1022 1,1025 1}
+{431 1,580 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{662 1,1005 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{684 1,963 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{869 1,1021 1,1023 1,1025 1}
+{334 1,781 1,996 1,1021 1,1023 1,1025 1}
+{53 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{162 1,395 1,452 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{405 1,431 1,1021 1,1023 1,1025 1}
+{205 1,501 1,781 1,1021 1,1023 1,1024 1,1025 1}
+{447 1,586 1,1020 1,1021 1,1022 1,1024 1}
+{176 1,1021 1,1022 1,1025 1}
+{808 1,1020 1,1023 1,1024 1}
+{486 1,1020 1,1023 1,1024 1}
+{138 1,152 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{710 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{152 1,431 1,1021 1,1023 1,1024 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{138 1,659 1,1021 1,1022 1,1025 1}
+{704 1,1021 1,1023 1,1025 1}
+{46 1,270 1,544 1,1021 1,1023 1,1024 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{138 1,203 1,546 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{580 1,880 1,1021 1,1023 1,1024 1,1025 1}
+{148 1,431 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{585 1,1021 1,1023 1,1025 1}
+{471 1,1021 1,1023 1,1025 1}
+{992 1,1021 1,1023 1,1025 1}
+{311 1,665 1,1021 1,1022 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{643 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{222 1,250 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{665 1,1021 1,1022 1,1025 1}
+{539 1,1021 1,1023 1,1024 1}
+{304 1,501 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{73 1,665 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,684 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{268 1,751 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{401 1,1020 1,1022 1,1024 1}
+{567 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{665 1,1021 1,1022 1,1025 1}
+{657 1,1020 1,1023 1,1024 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{54 1,1021 1,1023 1,1024 1}
+{222 1,781 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{683 1,751 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{781 1,869 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{544 1,781 1,1021 1,1023 1,1025 1}
+{657 1,869 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{53 1,313 1,873 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,405 1,477 1,1021 1,1023 1,1025 1}
+{63 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{73 1,665 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{456 1,1020 1,1023 1,1024 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{899 1,1020 1,1022 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{270 1,309 1,1021 1,1023 1,1024 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{222 1,899 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{74 1,1021 1,1023 1,1025 1}
+{130 1,214 1,1021 1,1022 1,1023 1,1025 1}
+{781 1,1014 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{172 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{1001 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{307 1,313 1,1005 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{138 1,616 1,781 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{250 1,1020 1,1023 1,1024 1}
+{283 1,586 1,740 1,963 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{433 1,755 1,1021 1,1022 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{657 1,1020 1,1023 1,1024 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{53 1,1021 1,1023 1,1025 1}
+{53 1,309 1,1001 1,1021 1,1023 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{149 1,607 1,993 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{955 1,1020 1,1023 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{709 1,1021 1,1023 1,1025 1}
+{279 1,410 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{147 1,546 1,1021 1,1023 1,1024 1,1025 1}
+{270 1,309 1,1021 1,1023 1,1024 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{808 1,1020 1,1023 1,1024 1}
+{731 1,1020 1,1022 1,1025 1}
+{214 1,1021 1,1023 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{829 1,1021 1,1023 1,1025 1}
+{539 1,1021 1,1023 1,1024 1}
+{138 1,1021 1,1022 1,1025 1}
+{803 1,1021 1,1022 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{106 1,1021 1,1022 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{222 1,1021 1,1023 1,1025 1}
+{580 1,1021 1,1023 1,1025 1}
+{300 1,1020 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{340 1,590 1,656 1,657 1,1020 1,1023 1,1024 1}
+{425 1,938 1,1021 1,1022 1,1023 1,1024 1}
+{214 1,1021 1,1023 1,1025 1}
+{586 1,797 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{440 1,1021 1,1023 1,1025 1}
+{683 1,1021 1,1022 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{309 1,1021 1,1023 1,1025 1}
+{471 1,1021 1,1023 1,1025 1}
+{324 1,1021 1,1022 1,1025 1}
+{337 1,586 1,746 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{172 1,852 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{132 1,138 1,1021 1,1022 1,1025 1}
+{400 1,438 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{203 1,586 1,1021 1,1022 1,1023 1,1024 1}
+{222 1,312 1,1021 1,1023 1,1025 1}
+{845 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{1005 1,1020 1,1023 1,1025 1}
+{222 1,797 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{1005 1,1020 1,1023 1,1025 1}
+{159 1,1020 1,1022 1,1024 1}
+{410 1,1021 1,1023 1,1025 1}
+{188 1,351 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{963 1,1020 1,1022 1,1024 1}
+{652 1,665 1,768 1,1020 1,1021 1,1022 1,1024 1,1025 1}
+{53 1,659 1,1021 1,1022 1,1023 1,1025 1}
+{138 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{63 1,361 1,1021 1,1022 1,1023 1,1025 1}
+{495 1,1021 1,1023 1,1025 1}
+{627 1,1021 1,1022 1,1024 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{309 1,492 1,903 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{214 1,1021 1,1023 1,1025 1}
+{257 1,1021 1,1023 1,1025 1}
+{47 1,657 1,1020 1,1021 1,1022 1,1023 1,1024 1}
+{586 1,1021 1,1022 1,1024 1}
+{1014 1,1021 1,1023 1,1025 1}
+{869 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{580 1,1021 1,1023 1,1025 1}
+{828 1,1021 1,1023 1,1025 1}
+{781 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{878 1,1021 1,1022 1,1025 1}
+{283 1,740 1,1021 1,1022 1,1025 1}
+{567 1,586 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{546 1,751 1,1020 1,1021 1,1023 1,1024 1}
+{860 1,1021 1,1023 1,1025 1}
+{718 1,751 1,1001 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{575 1,586 1,803 1,1021 1,1022 1,1024 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{992 1,1021 1,1023 1,1025 1}
+{676 1,1020 1,1022 1,1024 1}
+{395 1,1021 1,1023 1,1025 1}
+{309 1,1001 1,1021 1,1023 1,1025 1}
+{309 1,683 1,1021 1,1022 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{490 1,1021 1,1023 1,1025 1}
+{395 1,825 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{313 1,1021 1,1022 1,1024 1}
+{852 1,1020 1,1022 1,1024 1}
+{395 1,586 1,718 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{852 1,1020 1,1022 1,1024 1}
+{881 1,1020 1,1022 1,1024 1}
+{288 1,1021 1,1023 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{205 1,309 1,1014 1,1021 1,1023 1,1024 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{431 1,1021 1,1023 1,1025 1}
+{1 1,426 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{431 1,1001 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{340 1,1020 1,1023 1,1024 1}
+{395 1,1021 1,1023 1,1025 1}
+{309 1,1021 1,1023 1,1025 1}
+{586 1,867 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{770 1,1021 1,1023 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{73 1,1021 1,1023 1,1024 1}
+{172 1,478 1,659 1,781 1,1021 1,1022 1,1023 1,1025 1}
+{21 1,1021 1,1022 1,1025 1}
+{579 1,1020 1,1023 1,1024 1}
+{1005 1,1020 1,1023 1,1025 1}
+{938 1,1001 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,717 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{662 1,1021 1,1023 1,1024 1}
+{676 1,1020 1,1022 1,1024 1}
+{173 1,806 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{176 1,1021 1,1022 1,1025 1}
+{138 1,585 1,1021 1,1022 1,1023 1,1025 1}
+{567 1,1021 1,1023 1,1025 1}
+{395 1,1021 1,1023 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{138 1,1021 1,1022 1,1025 1}
+{1014 1,1021 1,1023 1,1025 1}
+{842 1,887 1,1020 1,1021 1,1022 1,1025 1}
+{1005 1,1020 1,1023 1,1025 1}
+{361 1,1005 1,1020 1,1021 1,1022 1,1023 1,1025 1}
+{0 1,73 1,665 1,1020 1,1021 1,1022 1,1023 1,1024 1,1025 1}
+{309 1,685 1,1021 1,1023 1,1025 1}
+{313 1,586 1,1021 1,1022 1,1024 1}
+{73 1,222 1,1021 1,1023 1,1024 1,1025 1}
+{586 1,1021 1,1022 1,1024 1}
+{54 1,1021 1,1023 1,1024 1}
+{300 1,1020 1,1023 1,1024 1}
+{567 1,822 1,1020 1,1021 1,1023 1,1024 1,1025 1}
+{829 1,1021 1,1023 1,1025 1}
+{149 1,1021 1,1023 1,1025 1}
+{63 1,309 1,683 1,1021 1,1022 1,1023 1,1025 1}
+{63 1,1021 1,1023 1,1025 1}
+{138 1,586 1,1021 1,1022 1,1024 1,1025 1}
